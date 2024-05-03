@@ -1,0 +1,19 @@
+#Michael {
+  border: 10px inset #cfdbff;
+  padding: 100x;
+  margin 20px;
+}
+
+#Michael:hover {
+  border: 10px outset #cfdbff
+}
+#Supla {
+  border: 10px inset #cfdbff;
+  padding: 100x;
+  margin 20px
+}
+
+#Supla:hover {
+  padding: 10px outset #cfdbff
+}
+}
